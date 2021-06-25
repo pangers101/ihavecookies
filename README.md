@@ -122,3 +122,4 @@ An example of the cookie consent message can be viewed at https://iamketan.com.a
 ## License
 
 This plugin is available under the MIT license.
+test
